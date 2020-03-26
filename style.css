@@ -1,0 +1,17 @@
+.btn
+    {
+        border: transparent solid 4px;
+        padding: 10px 10px;
+        text-align: center;
+        font-size: 16px;
+        cursor: pointer;
+        margin:15px 15px 15px 15px;
+        font-size:20px;
+        font-weight: 300;
+    }
+body
+    {
+        font-size: 15px;
+        font-weight: 300;
+        font-family: fantasy;
+    }
